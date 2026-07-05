@@ -1,0 +1,100 @@
+1::A company’s revenue increased by 20% in Year 1 and then decreased by 10% in Year 2. What is the net percentage change from the original revenue?::8% increase::10% increase::12% increase::5% increase::A::Assume revenue = 100. After +20% → 120. After −10% → 108. Net change = +8%.
+2::If x + y = 20 and xy = 96, what is the value of x² + y²?::208::212::216::220::A::x²+y²=(x+y)²−2xy=400−192=208.
+3::A store sells an item for $240 after a 20% discount. What was the original price?::$280::$300::$320::$340::B::Original price × 0.8 = 240. Original price = 240/0.8 = 300.
+4::The average of five numbers is 18. If a sixth number 30 is added, what is the new average?::19::20::21::22::B::Sum of first five = 5×18=90. New sum=120. Average=120/6=20.
+5::If 3x − 5 = 19, what is x?::6::7::8::9::C::3x=24, x=8.
+6::A machine produces 120 units in 8 hours. At the same rate, how many units in 15 hours?::210::225::240::250::B::Rate=15 units/hour. 15×15=225.
+7::The ratio of men to women in a class is 3:5. If there are 40 students, how many are women?::20::22::24::25::D::8 parts total. Each part=5. Women=5×5=25.
+8::If 40% of a number is 72, what is the number?::160::170::180::190::C::0.4x=72 → x=180.
+9::A project is completed by 12 workers in 15 days. Assuming equal productivity, how many days for 20 workers?::8::9::10::11::B::Work=180 worker-days. 180/20=9.
+10::What is the remainder when 2¹⁰ is divided by 7?::1::2::3::4::B::2³≡1 mod7. 2¹⁰=2⁹×2≡1×2=2.
+11::A number is increased by 25% and then decreased by 20%. The final result is what percent of the original?::95%::100%::105%::110%::B::1.25×0.8=1.0.
+12::If a:b=4:7 and b:c=14:15, then a:c=?::4:15::8:15::2:5::7:15::B::a:b=8:14 and b:c=14:15, thus a:c=8:15.
+13::The median of 2, 4, 7, 8, 15, 18, 21 is?::7::8::10::15::B::Middle value is 8.
+14::A train travels 300 km at 60 km/h. How long does it take?::4 h::5 h::6 h::7 h::B::300/60=5 hours.
+15::If n is divisible by both 6 and 8, it must be divisible by?::12::18::24::48::C::LCM(6,8)=24.
+16::What is 15% of 360?::48::52::54::60::C::0.15×360=54.
+17::A fair die is rolled. Probability of getting a prime number?::1/3::1/2::2/3::5/6::B::Primes: 2,3,5 = 3 outcomes out of 6.
+18::If log₁₀(1000)=x, then x=?::2::3::4::10::B::10³=1000.
+19::A company’s profit margin is 20% on sales of $500,000. Profit=?::$80,000::$90,000::$100,000::$120,000::C::0.20×500,000=100,000.
+20::The sum of consecutive integers from 1 to 100 is?::4950::5000::5050::5100::C::100×101/2=5050.
+21::Which statement weakens the argument most? “All top salespeople use CRM software; therefore CRM software causes high sales.”::Some top salespeople do not use CRM::Many low-performing salespeople also use CRM::CRM software is expensive::Salespeople prefer mobile apps::B::Correlation does not imply causation.
+22::The author’s tone is best described as skeptical if the passage primarily::Praises innovation::Questions assumptions::Provides instructions::Narrates events::B::Skepticism involves questioning claims.
+23::Choose the grammatically correct sentence.::Neither of the reports were submitted.::Neither of the reports was submitted.::Neither reports was submitted.::Neither reports were submitted.::B::“Neither” is singular.
+24::The word most nearly opposite to “mitigate” is::Reduce::Ease::Intensify::Moderate::C::Mitigate means lessen; opposite is intensify.
+25::If all analysts are graduates and some graduates are managers, which must be true?::Some analysts are managers::All graduates are analysts::All analysts are graduates::No managers are analysts::C::Only direct logical conclusion.
+26::A paragraph is most coherent when::Ideas are random::Ideas follow a logical sequence::Sentences are shortest::Vocabulary is advanced::B::Logical flow creates coherence.
+27::Choose the best transition: “Sales declined. ___, profits increased.”::Similarly::Therefore::Nevertheless::Because::C::Shows contrast.
+28::The primary purpose of a conclusion paragraph is to::Introduce evidence::Summarize and reinforce::Present new arguments::Define terms::B::Conclusions reinforce key points.
+29::An argument based on a small unrepresentative sample commits::Analogy::Hasty generalization::Deduction::Syllogism::B::Insufficient sample size.
+30::Which sentence is parallel?::She likes reading, to swim, and biking.::She likes reading, swimming, and biking.::She likes to read, swimming, and biking.::Reading, to swim, and biking are hobbies.::B::All items use same grammatical form.
+31::If the probability of rain is 0.3 and no rain is 0.7, these events are::Independent::Mutually exclusive and exhaustive::Dependent::Impossible::B::They cover all possibilities.
+32::A bag contains 5 red and 7 blue balls. Probability of drawing red?::5/7::5/12::7/12::1/2::B::5 favorable out of 12.
+33::What is the standard deviation conceptually measuring?::Average::Center::Spread::Ratio::C::Measures variability.
+34::A stock rises 10% then falls 10%. Net effect?::No change::1% gain::1% loss::2% loss::C::100→110→99.
+35::Compound interest grows faster than simple interest because::Rate changes::Interest earns interest::Principal shrinks::Time decreases::B::Interest accumulates on prior interest.
+36::If f(x)=2x+3, then f(5)=?::10::11::12::13::D::2×5+3=13.
+37::The area of a circle with radius 7 is::14π::49π::98π::154π::B::πr²=49π.
+38::A company cuts costs by $50,000 and increases revenue by $80,000. Net improvement?::$30,000::$80,000::$130,000::$50,000::C::50,000+80,000.
+39::What is the least common multiple of 12 and 18?::24::30::36::72::C::LCM=36.
+40::If x²=49 and x>0, x=?::5::6::7::8::C::Positive square root.
+41::A market with many sellers and identical products is::Monopoly::Oligopoly::Perfect competition::Monopsony::C::Definition.
+42::Opportunity cost refers to::Accounting expense::Lost alternative::Revenue gain::Tax burden::B::Best foregone alternative.
+43::Inflation generally reduces the purchasing power of::Money::Assets::Goods::Labor::A::Money buys less.
+44::GDP measures::National debt::Total production::Population::Trade balance::B::Value of goods/services produced.
+45::A price ceiling below equilibrium tends to create::Surplus::Shortage::Equilibrium::Inflation::B::Demand exceeds supply.
+46::Which financial statement shows profitability over a period?::Balance Sheet::Income Statement::Cash Flow Statement::Audit Report::B::Income statement reports revenues and expenses.
+47::Net Present Value analysis accounts for::Taxes only::Time value of money::Inflation only::Risk only::B::Discounts future cash flows.
+48::A firm maximizing profit hires labor until::Revenue=Cost::Marginal Revenue Product = Wage::Average Cost minimized::Output maximized::B::Standard economics rule.
+49::Diversification primarily reduces::Market risk::Systematic risk::Unsystematic risk::Inflation risk::C::Company-specific risk.
+50::A bond’s price generally moves::With interest rates::Opposite interest rates::Randomly::With inflation only::B::Inverse relationship.
+51::If all roses are flowers and some flowers fade quickly, which follows?::Some roses fade quickly::All flowers are roses::All roses are flowers::No roses fade quickly::C::Only guaranteed statement.
+52::A clock shows 3:15. Angle between hands?::0°::7.5°::15°::22.5°::B::Hour hand=97.5°, minute=90°, difference=7.5°.
+53::What is 25²−24²?::1::25::49::50::C::Difference of squares=(25−24)(25+24)=49.
+54::If a and b are consecutive integers and ab=72, then a+b=?::15::17::19::Not possible::D::No consecutive integers multiply to 72.
+55::A statement true in all cases is called::Conjecture::Hypothesis::Tautology::Corollary::C::Definition.
+56::Which best strengthens a causal claim?::Anecdote::Controlled experiment::Opinion survey::Editorial::B::Controls variables.
+57::The sequence 2,6,18,54,... next term?::108::126::162::216::C::Multiply by 3.
+58::If 4 workers finish a job in 18 days, 6 workers need?::10::12::14::16::B::72 worker-days. 72/6=12.
+59::A company’s revenue grew from 2M to 2.6M. Growth rate?::20%::25%::30%::35%::C::0.6/2=30%.
+60::Which is an assumption?::An observed fact::An unstated belief required by argument::A conclusion::A statistic::B::Assumptions support conclusions.
+61::What is √0.0081?::0.009::0.09::0.9::9::B::0.09²=0.0081.
+62::A class has 60 students. 35 study French, 30 study Spanish, 10 study neither. How many study both?::5::10::15::20::C::50 study at least one. 35+30−both=50 ⇒ both=15.
+63::The slope between (2,3) and (6,11) is::1::2::3::4::B::(11−3)/(6−2)=2.
+64::If p→q is true and q is false, p must be::True::False::Unknown::Both::B::Contrapositive.
+65::A company’s debt-to-equity ratio increases. This generally implies::Less leverage::More leverage::More liquidity::Lower risk::B::Higher debt usage.
+66::Which word best completes: “The CEO’s remarks were so ___ that investors remained uncertain.”::Explicit::Unequivocal::Ambiguous::Precise::C::Ambiguous causes uncertainty.
+67::What is the mode of 2,3,3,5,7,7,7,9?::3::5::7::9::C::Most frequent value.
+68::A car depreciates 15% annually. Value after one year from $20,000?::$15,000::$16,000::$17,000::$17,500::C::20000×0.85=17000.
+69::The cube root of 343 is::5::6::7::8::C::7³=343.
+70::Which conclusion is logically valid? All A are B. All B are C. Therefore::All C are A::All A are C::No A are C::Some C are A::B::Transitive relationship.
+71::The probability of two heads in two fair coin tosses is::1/4::1/3::1/2::3/4::A::HH only.
+72::What is 30% of 250?::65::70::75::80::C::0.3×250=75.
+73::An investor buys at $40 and sells at $52. Return?::20%::25%::30%::35%::C::12/40=30%.
+74::If 5x+2=3x+18, x=?::6::7::8::9::C::2x=16.
+75::A statement supported by evidence is a::Claim::Fact::Bias::Speculation::B::Fact is evidence-supported.
+76::The perimeter of a rectangle is 50. Length=15. Width=?::8::10::12::15::B::2(L+W)=50 ⇒ W=10.
+77::Which market structure has one seller?::Monopoly::Duopoly::Oligopoly::Competition::A::Definition.
+78::A company’s gross profit is revenue minus::Taxes::Operating expenses::Cost of goods sold::Interest::C::Gross profit formula.
+79::The average of 10,15,20,25,30 is::18::20::22::24::B::100/5=20.
+80::If x:y=2:3 and y:z=4:5, then x:z=?::8:15::2:5::4:15::3:5::A::x:y=8:12, y:z=12:15.
+81::Which best describes a valid argument?::True conclusion only::Logical conclusion from premises::Popular opinion::Emotional appeal::B::Validity concerns logic.
+82::What is 7! ?::5040::4032::720::840::A::7×6×5×4×3×2×1.
+83::The range of 5,9,12,18,21 is::12::14::16::18::C::21−5=16.
+84::A partnership earns $120,000. Partner A invested twice as much as B. A’s share?::$40,000::$60,000::$80,000::$90,000::C::Ratio 2:1, A gets 2/3.
+85::A statement that can be tested scientifically is::Hypothesis::Theory::Law::Axiom::A::Hypotheses are testable.
+86::If demand increases while supply stays constant, price tends to::Rise::Fall::Stay same::Become zero::A::Market equilibrium shifts upward.
+87::The sum of interior angles of a hexagon is::540°::720°::900°::1080°::B::(6−2)×180=720.
+88::Which sentence is most concise?::Due to the fact that sales rose...::Because sales rose...::On account of sales rising...::Considering the fact sales rose...::B::Most direct wording.
+89::A company with current ratio below 1 may face::Liquidity issues::High profitability::Tax advantages::Market dominance::A::Current liabilities exceed current assets.
+90::If 2^x=32, x=?::4::5::6::7::B::2⁵=32.
+91::A random variable’s expected value represents::Most likely value::Average long-run outcome::Maximum outcome::Median outcome::B::Definition.
+92::Which evidence is strongest?::Personal story::Single survey::Peer-reviewed study::Rumor::C::Most reliable source.
+93::A 25% increase followed by a 25% decrease results in::No change::6.25% loss::6.25% gain::12.5% loss::B::1.25×0.75=0.9375.
+94::What is the value of (3+4i)(3−4i)?::7::9::16::25::D::a²+b²=25.
+95::An investment doubles every 8 years. Approximately how many years to quadruple?::8::12::16::24::C::Two doublings.
+96::The probability of drawing an ace from a standard deck is::1/13::1/26::1/4::4/13::A::4 aces in 52 cards.
+97::Which assumption underlies most sample surveys?::Random selection::Perfect accuracy::Infinite population::Zero bias::A::Random sampling enables inference.
+98::A firm’s break-even point occurs when::Revenue exceeds cost::Profit maximized::Revenue equals total cost::Cash flow positive::C::Profit = 0.
+99::If a sequence is arithmetic with first term 5 and common difference 4, the 20th term is::77::79::81::83::C::5+19×4=81.
+100::Which GMAT strategy is generally best on difficult questions?::Spend unlimited time::Guess immediately::Balance accuracy and timing::Skip all hard questions::C::GMAT rewards efficient time management across the test.

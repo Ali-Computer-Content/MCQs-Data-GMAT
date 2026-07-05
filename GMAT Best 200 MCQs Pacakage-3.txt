@@ -1,0 +1,201 @@
+1::If x + y = 10 and x - y = 4, what is the value of x?::3::5::7::8::C::Adding the two equations: 2x = 14, so x = 7.
+2::A train travels 300 miles in 5 hours. What is its average speed in miles per hour?::50::55::60::65::C::Speed = Distance ÷ Time = 300 ÷ 5 = 60 mph.
+3::What is 15% of 240?::30::34::36::40::C::15% of 240 = 0.15 × 240 = 36.
+4::If 3x = 27, what is x²?::3::9::27::81::D::3x = 27 → x = 9. x² = 81.
+5::A rectangle has length 12 and width 7. What is its area?::38::72::84::96::C::Area = length × width = 12 × 7 = 84.
+6::Which sentence is grammatically correct?::Him and I went to the store.::He and me went to the store.::Him and me went to the store.::He and I went to the store.::D::Subjects of a sentence must use nominative pronouns: 'He' and 'I'.
+7::The word 'BENEVOLENT' most nearly means?::Hostile::Generous::Timid::Indifferent::B::Benevolent means well-meaning and generous.
+8::If a shirt costs $40 after a 20% discount, what was the original price?::$48::$50::$52::$56::B::Original × 0.80 = 40 → Original = 40 ÷ 0.80 = $50.
+9::What is the probability of rolling a 4 on a fair six-sided die?::1/3::1/4::1/5::1/6::D::There is 1 favorable outcome out of 6 total outcomes = 1/6.
+10::Solve: 2(x + 3) = 14::2::3::4::5::C::2x + 6 = 14 → 2x = 8 → x = 4.
+11::A company's revenue increased from $200,000 to $250,000. What is the percentage increase?::20%::25%::30%::35%::B::Increase = 50,000. Percentage = 50,000/200,000 × 100 = 25%.
+12::Choose the word most opposite in meaning to 'VERBOSE'::Talkative::Wordy::Concise::Eloquent::C::Verbose means using too many words; its antonym is concise.
+13::If a circle has a radius of 5, what is its area? (Use π ≈ 3.14)::62.8::75.5::78.5::80.0::C::Area = πr² = 3.14 × 25 = 78.5.
+14::All mammals are warm-blooded. Dogs are mammals. Therefore: ?::Dogs are cold-blooded.::Dogs are warm-blooded.::All warm-blooded animals are dogs.::Dogs are not mammals.::B::Classic syllogism: if all mammals are warm-blooded and dogs are mammals, dogs must be warm-blooded.
+15::What is the median of: 3, 7, 1, 9, 5?::5::6::7::3::A::Sorted: 1, 3, 5, 7, 9. The middle value is 5.
+16::Which of the following is NOT a prime number?::11::13::17::21::D::21 = 3 × 7, so it is not prime.
+17::A passage says: "Despite its toxicity, many snake venoms are being studied for medicinal uses." What can be inferred?::All venoms are medicinal.::Toxicity always prevents medical use.::Harmful substances can have beneficial applications.::Snake venom is not toxic.::C::The word 'despite' implies a contrast — toxic things can still be medically useful.
+18::If 5 workers can complete a job in 8 days, how many days will 10 workers take?::2::4::6::8::B::Work = 5 × 8 = 40 worker-days. 40 ÷ 10 = 4 days.
+19::What is the value of √144?::11::12::13::14::B::√144 = 12 because 12 × 12 = 144.
+20::Simplify: (x²)(x³)::x^5::x^6::x^9::2x^5::A::When multiplying same bases, add exponents: x^(2+3) = x^5.
+21::A car depreciates by 10% per year. If it costs $20,000 new, what is its value after 2 years?::$16,000::$16,200::$18,000::$18,200::B::After year 1: $18,000. After year 2: $18,000 × 0.90 = $16,200.
+22::The argument assumes that::correlation implies causation.::evidence is always reliable.::precedent guarantees future results.::the conclusion precedes the premise.::A::Many flawed arguments assume that because two things are correlated, one must cause the other.
+23::What is 3/4 ÷ 1/2?::3/8::1/2::3/2::2::C::Dividing by a fraction means multiplying by its reciprocal: 3/4 × 2/1 = 6/4 = 3/2.
+24::If the average of 4 numbers is 15, what is their sum?::45::54::60::75::C::Sum = Average × Count = 15 × 4 = 60.
+25::Choose the correct sentence::The data shows a clear trend.::The data show a clear trend.::The datas show a clear trend.::The data is showing clear trends.::B::'Data' is a plural noun (singular: datum), so it takes a plural verb: 'show'.
+26::What is 2^10?::512::1024::2048::256::B::2^10 = 1024.
+27::If x > 0 and y < 0, then xy is::Always positive::Always negative::Zero::Cannot be determined::B::A positive number times a negative number always yields a negative product.
+28::A store buys an item for $60 and sells it for $90. What is the profit percentage?::30%::40%::50%::60%::C::Profit = $30. Percentage = 30/60 × 100 = 50%.
+29::The word 'PRAGMATIC' most nearly means?::Idealistic::Practical::Theoretical::Emotional::B::Pragmatic means dealing with things sensibly and realistically.
+30::Which is the best conclusion from: "Sales rose whenever advertising increased"?::Advertising causes sales.::Advertising and sales are correlated.::Sales are unaffected by advertising.::Advertising always increases sales.::B::The data shows correlation, not necessarily causation.
+31::How many degrees are in the interior angles of a triangle?::90::180::270::360::B::The sum of interior angles of any triangle is always 180 degrees.
+32::If a recipe requires 2.5 cups for 4 servings, how many cups are needed for 10 servings?::5.5::6::6.25::6.5::C::2.5/4 × 10 = 6.25 cups.
+33::What is the LCM of 6 and 8?::12::16::24::48::C::Multiples of 6: 6,12,18,24. Multiples of 8: 8,16,24. LCM = 24.
+34::Choose the correct form: The committee __ reached a decision.::have::has::are::were::B::Committee is a collective noun treated as singular in American English: 'has'.
+35::'AMBIGUOUS' means?::Clear::Certain::Open to multiple interpretations::Definitive::C::Ambiguous means open to more than one interpretation.
+36::If P(A) = 0.4 and P(B) = 0.3 and A and B are independent, what is P(A and B)?::0.12::0.7::0.1::0.58::A::For independent events: P(A∩B) = P(A) × P(B) = 0.4 × 0.3 = 0.12.
+37::A triangle has sides 3, 4, and 5. What type is it?::Equilateral::Isosceles::Right::Obtuse::C::3² + 4² = 9 + 16 = 25 = 5². Satisfies Pythagorean theorem, so it's a right triangle.
+38::Which weakens the argument that "Exercise improves academic performance"?::Students who exercise sleep better.::The study had a large sample size.::Students who exercise also have better diets.::Exercise reduces stress.::C::If students who exercise also eat better, diet — not exercise — might explain academic gains (confounding variable).
+39::What is 40% of 3/5?::4/25::6/25::8/25::12/25::C::40% = 2/5. 2/5 × 3/5 = 6/25. Wait — 0.4 × 0.6 = 0.24 = 6/25. Answer: B. Correction: 40% of 3/5 = 0.4 × 0.6 = 0.24 = 6/25::B::40% = 2/5. (2/5) × (3/5) = 6/25.
+40::The mode of {2, 3, 3, 5, 7, 3, 8} is?::2::3::5::7::B::Mode is the most frequent value. 3 appears 3 times.
+41::If a population grows at 5% per year, approximately how many years to double? (Rule of 72)::10::12::14::16::C::Rule of 72: 72 ÷ 5 = 14.4 ≈ 14 years.
+42::Identify the logical flaw: "This medicine worked for my friend, so it will work for everyone."::False dilemma::Hasty generalization::Appeal to authority::Circular reasoning::B::Concluding that what applies to one applies to all is a hasty generalization.
+43::What is the slope of a line passing through (2, 3) and (6, 11)?::1::2::3::4::B::Slope = (11-3)/(6-2) = 8/4 = 2.
+44::Which sentence is most concise?::Due to the fact that he was tired, he slept.::He slept because he was tired.::The reason he slept was due to being tired.::He went to sleep on account of tiredness.::B::'He slept because he was tired' is the most direct and concise.
+45::If 2x + 3y = 12 and x = 3, what is y?::1::2::3::4::B::2(3) + 3y = 12 → 6 + 3y = 12 → 3y = 6 → y = 2.
+46::An investment grows from $1,000 to $1,500 in 5 years (simple interest). What is the annual interest rate?::5%::8%::10%::12%::C::Interest = $500. Rate = 500/(1000 × 5) = 0.10 = 10%.
+47::The word 'EPHEMERAL' means?::Lasting::Temporary::Significant::Ancient::B::Ephemeral means lasting for a very short time.
+48::If a bag has 5 red, 3 blue, and 2 green balls, what is the probability of drawing a red ball?::1/2::1/3::1/4::1/5::A::P(red) = 5/10 = 1/2.
+49::Simplify: (3x²y)(4xy³)::12x²y³::12x³y⁴::7x³y⁴::7x²y³::B::(3×4)(x^(2+1))(y^(1+3)) = 12x³y⁴.
+50::What is the GCF of 36 and 48?::6::8::12::16::C::Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. GCF = 12.
+51::A passage states: "Urbanization has accelerated globally, straining infrastructure." The author's primary concern is?::Rural population decline::Rapid urban growth creating pressure on systems::Benefits of city living::Cost of building infrastructure::B::The passage highlights urbanization and its negative effect (strain) on infrastructure as the main concern.
+52::What is (-3)³?::-9::9::-27::27::C::(-3)³ = -3 × -3 × -3 = 9 × -3 = -27.
+53::If x/4 = 7, then x =?::21::24::28::32::C::x = 7 × 4 = 28.
+54::Choose the correct sentence::Neither the manager nor the employees was present.::Neither the manager nor the employees were present.::Neither the manager nor the employees is present.::Neither the manager nor the employees are present.::B::With 'neither...nor', the verb agrees with the noun closest to it ('employees', plural) → 'were'.
+55::'ACRIMONY' most nearly means?::Friendship::Bitterness::Harmony::Generosity::B::Acrimony means bitterness or ill feeling.
+56::What is the perimeter of a square with area 49?::14::21::28::35::C::Side = √49 = 7. Perimeter = 4 × 7 = 28.
+57::If a set of numbers has mean 20 and standard deviation 4, what is the coefficient of variation?::5%::10%::20%::25%::C::CV = (SD/Mean) × 100 = (4/20) × 100 = 20%.
+58::Which best strengthens: "Higher minimum wage causes unemployment"?::Businesses report higher profits after wage increases.::Studies show employment drops after wage hikes in several cities.::Workers report greater job satisfaction at higher wages.::Inflation rises alongside unemployment.::B::Direct evidence of employment drops after wage increases supports the claim.
+59::Solve: |x - 3| = 5::x = 8 or x = -8::x = 8 or x = -2::x = 2 or x = -2::x = 8 only::B::x - 3 = 5 → x = 8; or x - 3 = -5 → x = -2.
+60::The ratio of boys to girls in a class is 3:2. If there are 30 students total, how many are girls?::10::12::15::18::B::Girls = (2/5) × 30 = 12.
+61::Which sentence uses the subjunctive correctly?::If I was you, I would leave.::If I were you, I would leave.::If I am you, I would leave.::If I be you, I would leave.::B::The subjunctive 'were' is used for hypothetical or contrary-to-fact conditions.
+62::What is the range of {4, 7, 2, 9, 1, 6}?::7::8::9::10::B::Range = Max - Min = 9 - 1 = 8.
+63::A cylindrical tank has radius 3 and height 10. What is its volume? (π ≈ 3.14)::282.6::267.5::314.0::290.0::A::Volume = πr²h = 3.14 × 9 × 10 = 282.6.
+64::Which word is most similar to 'LOQUACIOUS'?::Silent::Talkative::Aggressive::Reserved::B::Loquacious means tending to talk a great deal — similar to talkative.
+65::If 20% of a number is 50, what is 30% of that number?::65::70::75::80::C::Number = 50/0.20 = 250. 30% of 250 = 75.
+66::An argument that relies on the popularity of a belief to prove its truth commits which fallacy?::Straw man::Ad hominem::Bandwagon (Ad populum)::False dichotomy::C::Arguing that something is true because many people believe it is the bandwagon (ad populum) fallacy.
+67::The slope of a horizontal line is?::Undefined::1::0::-1::C::A horizontal line has no rise over any run, so slope = 0.
+68::If 3 is added to twice a number, the result is 19. What is the number?::7::8::9::10::B::2x + 3 = 19 → 2x = 16 → x = 8.
+69::What is the value of 0!?::0::1::Undefined::Infinity::B::By definition, 0! = 1.
+70::'CANDID' means?::Deceptive::Frank and honest::Polite::Indirect::B::Candid means truthful and straightforward.
+71::How many ways can 4 books be arranged on a shelf?::12::16::24::32::C::4! = 4 × 3 × 2 × 1 = 24.
+72::A passage argues that "renewable energy cannot fully replace fossil fuels." An effective counter-argument would be?::Fossil fuels are finite resources.::Norway runs almost entirely on hydropower.::Renewables are expensive to install.::Energy demand is rising globally.::B::A specific real-world example (Norway's hydropower) directly challenges the claim that renewables cannot fully replace fossil fuels.
+73::What is the sum of the first 10 positive integers?::45::50::55::60::C::Sum = n(n+1)/2 = 10 × 11/2 = 55.
+74::If f(x) = 3x - 2, what is f(5)?::11::13::15::17::B::f(5) = 3(5) - 2 = 15 - 2 = 13.
+75::Which of the following is a correct interpretation of a 95% confidence interval?::95% of data falls within this range.::There is a 95% probability the true parameter lies in this interval.::The interval captures the true mean in 95% of repeated experiments.::The sample mean equals the true mean 95% of the time.::C::A confidence interval means: if the same experiment were repeated many times, 95% of the constructed intervals would contain the true parameter.
+76::A worker is paid $12 per hour plus $2 for each unit produced. If she works 8 hours and produces 15 units, what are her total earnings?::$120::$126::$126::$126::B::Earnings = (12 × 8) + (2 × 15) = 96 + 30 = $126.
+77::Choose the sentence with correct pronoun reference::Each of the students submitted their homework.::Each of the students submitted his or her homework.::Each of the students submitted its homework.::Each of the students submitted them homework.::B::'Each' is singular and requires 'his or her' in formal writing.
+78::What is 1/3 + 1/4?::2/7::5/12::7/12::3/7::C::LCD = 12. 4/12 + 3/12 = 7/12.
+79::'OSTENTATIOUS' means?::Humble::Showy::Quiet::Generous::B::Ostentatious means characterized by vulgar or pretentious display; designed to impress.
+80::If a square is inscribed in a circle of radius 5, what is the area of the square?::25::40::50::100::C::Diagonal of square = diameter = 10. Side = 10/√2. Area = (10/√2)² = 100/2 = 50.
+81::Which statement about a valid argument is true?::A valid argument must have a true conclusion.::A valid argument with true premises must have a true conclusion.::A valid argument can have false premises and a true conclusion.::All of the above.::D::Validity means the conclusion follows from the premises. Both B and C can be true of valid arguments, making D correct.
+82::Simplify: (2/3) × (9/4)::3/2::2/3::18/12::6/12::A::(2×9)/(3×4) = 18/12 = 3/2.
+83::How many prime numbers are between 20 and 40?::3::4::5::6::B::Primes: 23, 29, 31, 37 — that's 4 primes.
+84::A store sells 200 units at $5 and 300 units at $8. What is the weighted average price?::$6.50::$6.80::$6.00::$7.00::B::Total revenue = 200×5 + 300×8 = 1000 + 2400 = 3400. Total units = 500. Average = 3400/500 = $6.80.
+85::Which sentence is free of dangling modifiers?::Running to the bus, the rain began to fall.::Running to the bus, she got caught in the rain.::Running to the bus, her umbrella broke.::Running to the bus, the stop was missed.::B::The subject 'she' correctly performs the action 'running to the bus'.
+86::The word 'TACITURN' means?::Enthusiastic::Talkative::Reserved in speech::Argumentative::C::Taciturn means tending to be quiet and not speaking much.
+87::What is the y-intercept of y = 3x + 7?::3::7::0::-7::B::The y-intercept is the constant term when the equation is in y = mx + b form, which is 7.
+88::Two dice are rolled. What is the probability of getting a sum of 7?::1/4::1/5::1/6::1/7::C::Combinations for sum 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 out of 36 = 1/6.
+89::A thesis that says "Social media causes depression in teenagers" is best supported by?::A celebrity's opinion.::A controlled longitudinal study of teen social media use.::A single case study.::Anecdotal reports from parents.::B::A controlled longitudinal study provides the strongest scientific evidence for causation.
+90::If 4x - 6 = 2x + 10, what is x?::6::7::8::9::C::4x - 2x = 10 + 6 → 2x = 16 → x = 8.
+91::The compound interest formula is A = P(1+r/n)^(nt). If P=$1000, r=10%, n=1, t=3, what is A?::$1300::$1310::$1331::$1350::C::A = 1000(1.1)^3 = 1000 × 1.331 = $1331.
+92::Which transition best shows contrast?::Furthermore::Therefore::However::Consequently::C::'However' signals a contrast or opposing point.
+93::What is log₁₀(1000)?::2::3::4::10::B::10^3 = 1000, so log₁₀(1000) = 3.
+94::'AUSPICIOUS' means?::Ominous::Unfortunate::Favorable::Uncertain::C::Auspicious means giving or suggesting a positive, favorable outcome.
+95::A line is perpendicular to y = 2x + 1. What is the slope of the perpendicular line?::2::1/2::-1/2::-2::C::Perpendicular slopes are negative reciprocals. Slope of given line = 2. Perpendicular slope = -1/2.
+96::Which argument structure is valid?::If A then B. Not A. Therefore, not B.::If A then B. B. Therefore, A.::If A then B. A. Therefore, B.::If A then B. Not B. Therefore, A.::C::Modus ponens: If A → B and A is true, then B must be true. This is the only valid form listed.
+97::What is 5! - 4!?::96::120::96::24::A::5! = 120. 4! = 24. 120 - 24 = 96.
+98::If the price of an item increases by 25% and then decreases by 20%, what is the net change?::0%::+5%::-5%::+10%::A::1.25 × 0.80 = 1.00. No net change — the price returns to the original.
+99::Which is the most logical conclusion? "All A are B. Some B are C."?::All A are C.::Some A are C.::No A are C.::No conclusion can be drawn.::D::We cannot determine the relationship between A and C from these premises.
+100::Evaluate: 3² + 4² - 2(3)(4)cosθ when θ = 0°::1::5::25::7::A::cos(0°) = 1. = 9 + 16 - 24 = 1.
+101::A project takes 12 days with 6 workers. How many workers are needed to finish it in 8 days?::7::8::9::10::C::Total work = 72 worker-days. Workers = 72/8 = 9.
+102::The tone of a passage using words like 'squandered', 'reckless', and 'inexcusable' is best described as?::Neutral::Admiring::Critical::Humorous::C::These negatively charged words indicate a critical tone.
+103::What is the area of a triangle with base 10 and height 6?::30::60::40::50::A::Area = 1/2 × base × height = 1/2 × 10 × 6 = 30.
+104::Choose the correct sentence::The number of accidents are rising.::The number of accidents is rising.::A number of accident is rising.::Number of accidents are rising.::B::'The number of' takes a singular verb. 'The number of accidents is rising' is correct.
+105::'VOCIFEROUS' means?::Quiet::Loud and forceful::Gentle::Persuasive::B::Vociferous means expressing opinions or feelings in a very loud or forceful way.
+106::If x² = 16, what are the possible values of x?::4 only::-4 only::±4::±8::C::x² = 16 → x = ±4. Both positive and negative roots are valid.
+107::An executive summary should primarily::Provide all technical details.::Summarize key findings and recommendations.::List all data sources.::Define all technical terms.::B::An executive summary captures the most important points concisely for decision-makers.
+108::What is the distance between points (1, 2) and (4, 6)?::4::5::6::7::B::Distance = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5.
+109::Which statement contains a logical fallacy?::Taxes should increase to fund healthcare.::Since Einstein was a pacifist, we should end all wars.::Climate policy requires balancing economy and environment.::Urban planning affects quality of life.::B::This is an appeal to authority/irrelevant authority — Einstein's pacifism doesn't make a general case for ending wars.
+110::If the standard deviation of a data set doubles, the variance::Doubles::Quadruples::Stays the same::Halves::B::Variance = SD². If SD doubles, variance = (2SD)² = 4SD², so variance quadruples.
+111::Simplify: (x + 2)(x - 2)::x² - 4::x² + 4::x² - 2x + 4::x² + 2x - 4::A::(a+b)(a-b) = a² - b² = x² - 4.
+112::A survey of 100 people shows 60 prefer product A. The margin of error is ±5%. Can we conclude product A is preferred by the majority?::Yes, 60% is a clear majority.::No, the true value could be as low as 55%, which may still indicate majority.::No, the true value could fall between 55% and 65%, but 55% is still a majority.::Yes, even at the lower bound (55%), majority prefer A.::D::At the lower bound (60-5 = 55%), more than half still prefer A, confirming majority preference.
+113::What is the value of x in: log₂(x) = 5?::10::25::32::64::C::log₂(x) = 5 → x = 2^5 = 32.
+114::Which sentence avoids redundancy?::The final conclusion was unexpected.::The conclusion was unexpected.::The end result and final conclusion were unexpected.::The end result was finally concluded unexpectedly.::B::'Conclusion' already implies finality, making 'final' redundant. Option B is clean.
+115::'EQUIVOCATE' means?::Speak clearly::Use ambiguous language to avoid commitment::State firmly::Agree with everyone::B::Equivocate means to use ambiguous or unclear language to avoid committing to a position.
+116::A bag has 4 red and 6 blue marbles. If two are drawn without replacement, what is the probability both are red?::2/15::4/15::1/15::6/15::A::P = (4/10) × (3/9) = 12/90 = 2/15.
+117::Which of the following best identifies the main assumption of this argument: "Since Paul exercises daily, he must be healthy"?::Exercise is enjoyable.::Daily exercise is the only determinant of health.::Paul is disciplined.::Exercise leads to health.::D::The argument assumes that exercise leads to being healthy — without this link, the conclusion doesn't follow.
+118::What is 3/8 as a percentage?::35.5%::37.5%::38%::36.5%::B::3 ÷ 8 = 0.375 = 37.5%.
+119::A quadratic equation ax² + bx + c = 0 has discriminant b²-4ac. If discriminant = 0, the equation has?::Two real distinct roots::One repeated real root::Two complex roots::No roots::B::Discriminant = 0 means one repeated (double) real root.
+120::Choose the best option to complete: "Despite the criticism, the policy __ many lives."::saved::have saved::saving::saves::A::'Saved' is the simple past form that correctly follows the introductory clause.
+121::What is the volume of a cube with edge length 4?::48::64::96::128::B::Volume = edge³ = 4³ = 64.
+122::Which of the following best strengthens an argument that "Online learning is as effective as in-person learning"?::Students prefer online learning.::A large-scale study shows equivalent test scores in both formats.::Online learning is cheaper.::Technology enables better content delivery.::B::Empirical data showing equivalent academic outcomes directly supports the claim about effectiveness.
+123::If x + y = 8 and xy = 15, what is x² + y²?::49::34::64::46::B::x² + y² = (x+y)² - 2xy = 64 - 30 = 34.
+124::'INSOLVENT' means?::Wealthy::Unable to pay debts::Cautious::Highly profitable::B::Insolvent means not having enough money to pay debts.
+125::In a normal distribution, approximately what percentage of data falls within 1 standard deviation of the mean?::50%::68%::95%::99.7%::B::By the empirical rule, approximately 68% of data lies within ±1 standard deviation.
+126::Which version is grammatically correct?::The CEO, along with his advisors, were present.::The CEO, along with his advisors, was present.::The CEO and his advisors was present.::The CEO alongside his advisors were present.::B::'Along with' is a parenthetical phrase. The subject remains 'The CEO' (singular), so 'was' is correct.
+127::If a function is f(x) = x² - 4x + 4, its minimum value is at x =?::0::1::2::4::C::This is (x-2)². Vertex at x = 2 gives the minimum value of 0.
+128::Solve the inequality: 2x - 5 > 9::x > 7::x > 6::x > 8::x > 5::A::2x > 14 → x > 7.
+129::A company's P/E ratio is 20 and its earnings per share is $3. What is the stock price?::$50::$60::$65::$70::B::Stock price = P/E × EPS = 20 × 3 = $60.
+130::'PROLIFERATE' means?::Decrease::Spread rapidly::Organize::Limit::B::Proliferate means to increase rapidly in number or amount.
+131::Which error does this sentence contain? "Between you and I, the decision was fair."::Subject-verb agreement::Incorrect pronoun case::Dangling modifier::Redundancy::B::'Between' is a preposition; it requires objective case: 'between you and me'.
+132::What is 15% of 15% of 1000?::22.5::25::20::30::A::15% of 1000 = 150. 15% of 150 = 22.5.
+133::A regression analysis shows R² = 0.85. This means?::85% of variance in Y is explained by X.::X causes Y 85% of the time.::85% of predictions are accurate.::The correlation coefficient is 0.85.::A::R² (coefficient of determination) measures the proportion of variance in the dependent variable explained by the model.
+134::Which logical structure is 'Modus Tollens'?::If A then B. A. Therefore B.::If A then B. Not B. Therefore not A.::If A then B. Not A. Therefore not B.::A or B. Not A. Therefore B.::B::Modus Tollens: If P→Q and ¬Q, then ¬P.
+135::What is the surface area of a cube with edge 3?::27::36::54::72::C::Surface area = 6 × edge² = 6 × 9 = 54.
+136::An article argues that declining biodiversity is humanity's most urgent crisis. A reader who disagrees should?::Accept the claim because it comes from a scientific article.::Look for evidence about other urgent crises and their relative severity.::Dismiss the article entirely.::Agree to avoid conflict.::B::Critical reading involves evaluating claims by seeking comparative evidence rather than blind acceptance or dismissal.
+137::If log(a) + log(b) = log(c), then c equals?::a + b::a - b::ab::a/b::C::log(a) + log(b) = log(ab). Therefore c = ab.
+138::'PERFIDIOUS' means?::Loyal::Treacherous::Courageous::Honorable::B::Perfidious means deceitful and untrustworthy; guilty of betrayal.
+139::What is the probability of drawing an ace from a standard 52-card deck?::1/13::1/12::1/4::1/52::A::There are 4 aces in 52 cards. P = 4/52 = 1/13.
+140::Two trains start from cities 400 miles apart, moving toward each other at 80 and 120 mph. When do they meet?::2 hours::2.5 hours::3 hours::3.5 hours::A::Combined speed = 200 mph. Time = 400/200 = 2 hours.
+141::The best title for a passage about how sleep deprivation affects cognitive function is?::The History of Sleep Research::Why Sleep Matters for Brain Performance::Sleep Disorders and Their Treatments::Daily Routines of Successful People::B::This title directly reflects the main topic: the impact of sleep (or lack thereof) on cognitive performance.
+142::Which inequality is correct if x is negative?::x² < 0::x² > 0::-x < 0::1/x > 0::B::Any nonzero real number squared is positive. So x² > 0 for any x ≠ 0.
+143::A company allocates 30% of budget to marketing, 25% to R&D, and 45% to operations. If total budget is $2M, how much goes to R&D?::$400,000::$450,000::$500,000::$600,000::C::R&D = 25% × $2,000,000 = $500,000.
+144::'TENACIOUS' means?::Easily discouraged::Holding firmly to a purpose::Indecisive::Submissive::B::Tenacious means persisting in existence or purpose; not giving up easily.
+145::Which of the following sentences has correct subject-verb agreement?::A number of students was absent.::A number of students were absent.::The number of students were absent.::Number of students was absent.::B::'A number of' is followed by a plural noun and takes a plural verb. 'Were' is correct here.
+146::What is the value of (27)^(1/3)?::3::9::6::27::A::Cube root of 27 = 3, since 3³ = 27.
+147::In a pie chart representing market share, Company A = 40%, B = 35%, C = 25%. If total market = $500M, what is Company B's share?::$150M::$175M::$200M::$125M::B::35% × $500M = $175M.
+148::A critical reasoning question asks for the 'underlying assumption.' This means?::The stated conclusion::An unstated premise required for the argument::Extra evidence not mentioned::A counterargument::B::An assumption is an unstated premise that must be true for the argument to hold.
+149::Simplify: √(50)::5√2::10::5√3::25√2::A::√50 = √(25×2) = 5√2.
+150::The phrase "begging the question" refers to which fallacy?::Circular reasoning::Ad hominem::Straw man::False dilemma::A::Begging the question (petitio principii) is circular reasoning — the conclusion is assumed in the premise.
+151::Which data set has the highest variance?::{5,5,5,5}::{1,3,5,7,9}::{4,5,5,6}::{3,4,5,6,7}::B::The set {1,3,5,7,9} has values spread furthest from the mean (5), resulting in the highest variance.
+152::If 2^x = 64, what is x?::5::6::7::8::B::2^6 = 64. So x = 6.
+153::A company reports net income of $5M on revenue of $50M. What is the profit margin?::5%::10%::15%::20%::B::Profit margin = 5/50 × 100 = 10%.
+154::'DISPARATE' means?::Similar::Essentially different::Equal::Unified::B::Disparate means essentially different in kind; not allowing comparison.
+155::In a group of 30, if 18 like tea and 15 like coffee, and 5 like neither, how many like both?::7::8::9::10::B::By inclusion-exclusion: 18 + 15 - both = 30 - 5 = 25. Both = 33 - 25 = 8.
+156::Which best describes an 'ad hominem' fallacy?::Attacking the argument instead of the person.::Attacking the person instead of the argument.::Using emotion to make a point.::Presenting a false choice.::B::Ad hominem means 'to the person' — attacking the individual rather than their argument.
+157::If a number is divisible by both 4 and 6, it must be divisible by?::8::10::12::24::C::LCM(4,6) = 12. Any number divisible by both must be divisible by their LCM = 12.
+158::The word 'SALIENT' means?::Hidden::Most noticeable::Trivial::Unrelated::B::Salient means most noticeable or important; standing out.
+159::Evaluate: 4^(3/2)::6::8::12::16::B::4^(3/2) = (4^(1/2))^3 = 2^3 = 8.
+160::A passage concludes with a recommendation. What type of paragraph is this most likely?::Narrative::Descriptive::Argumentative::Expository::C::Passages that build toward a recommendation or call to action are argumentative in nature.
+161::What is 2/5 of 3/4?::6/20::3/10::5/9::6/9::B::2/5 × 3/4 = 6/20 = 3/10.
+162::If f(x) = 2x + 1 and g(x) = x², what is g(f(2))?::10::25::20::15::B::f(2) = 5. g(5) = 25.
+163::'MAGNANIMOUS' means?::Petty::Generous and forgiving::Arrogant::Cautious::B::Magnanimous means having or showing a generous and forgiving spirit.
+164::A company's quick ratio is 1.5. This indicates?::It has $1.50 in assets for every $1 in long-term debt.::It can cover current liabilities 1.5 times with liquid assets.::Its profits are 150% of last year.::Its current ratio is also 1.5.::B::Quick ratio = (Current Assets - Inventory) / Current Liabilities. A ratio of 1.5 means liquid assets cover current liabilities 1.5 times.
+165::If the diameter of a circle is 14, what is its circumference? (π ≈ 22/7)::44::88::66::22::A::C = πd = (22/7) × 14 = 44.
+166::Which sentence correctly uses 'affect' vs 'effect'?::The drug had a positive affect on patients.::Stress can effect your health negatively.::The new policy will affect all employees.::The effect of the medicine affected slowly.::C::'Affect' is a verb meaning to influence. 'The policy will affect employees' is correct usage.
+167::'WANE' means?::Increase::Decrease or diminish::Stay constant::Peak::B::Wane means to decrease in vigor, power, or size.
+168::Solve: x² - 5x + 6 = 0::x = 1 or 6::x = 2 or 3::x = -2 or -3::x = 3 or -2::B::Factor: (x-2)(x-3) = 0. Solutions: x = 2 or x = 3.
+169::A pie chart shows that Product A = 120°, Product B = 90°, Product C = 150°. What % does Product A represent?::30%::25%::33.3%::40%::C::120/360 × 100 = 33.3%.
+170::Two numbers have a sum of 20 and a product of 96. What are the numbers?::8 and 12::9 and 11::7 and 13::6 and 14::A::8 + 12 = 20 and 8 × 12 = 96. Confirmed.
+171::'ARCANE' means?::Common knowledge::Mysterious and understood by few::Logical::Obvious::B::Arcane means known or understood by very few; mysterious or secret.
+172::Which of the following correctly applies the distributive property?::3(x + 4) = 3x + 4::3(x + 4) = 3x + 12::3(x + 4) = x + 12::3(x + 4) = 3 + x + 4::B::3(x + 4) = 3×x + 3×4 = 3x + 12.
+173::A market research passage states: "Consumer confidence fell sharply in Q3." What does this most likely imply?::Consumers spent more in Q3.::Businesses expanded in Q3.::Spending or investment likely declined in Q3.::Prices increased significantly in Q3.::C::Falling consumer confidence typically precedes reduced spending and investment.
+174::What is the sum of exterior angles of any convex polygon?::180°::270°::360°::540°::C::The sum of exterior angles of any convex polygon is always 360°.
+175::If interest is compounded continuously at 6% per year, what is the growth factor after 1 year? (e ≈ 2.718)::1.060::1.062::1.065::1.070::B::Growth factor = e^(0.06) ≈ 1.0618 ≈ 1.062.
+176::Which sentence most clearly revises: "Due to the fact that she was exhausted, she went to sleep."?::She went to sleep because she was exhausted.::She slept on account of the fact of exhaustion.::Due to exhaustion, the fact was she slept.::She did go to sleep being exhausted.::A::'Because she was exhausted, she slept' is the clearest and most concise revision.
+177::'CORROBORATE' means?::Contradict::Confirm or support::Question::Doubt::B::Corroborate means to confirm or give support to a statement or finding.
+178::A loss of 10% on selling price means what % loss on cost price?::10%::11.1%::9%::12.5%::B::If SP is X and loss is 0.1X, then CP = 0.9X. % loss on CP = (0.1X/0.9X) × 100 ≈ 11.1%.
+179::If Set A = {1,2,3,4} and Set B = {3,4,5,6}, what is A ∩ B?::{1,2,3,4,5,6}::{3,4}::{1,2,5,6}::{1,2}::B::Intersection contains elements common to both sets: {3, 4}.
+180::Which of the following is NOT a measure of central tendency?::Mean::Median::Mode::Range::D::Range is a measure of spread/dispersion, not central tendency.
+181::'SANGUINE' means?::Pessimistic::Optimistic::Realistic::Apathetic::B::Sanguine means optimistic or positive, especially in a difficult situation.
+182::A passage presents two opposing views on healthcare policy without taking sides. This is best described as?::Biased::Objective/balanced::Persuasive::Misleading::B::Presenting multiple views without bias indicates an objective and balanced approach.
+183::What is the next number in the sequence: 2, 6, 18, 54, __?::108::162::216::270::B::Each term is multiplied by 3: 54 × 3 = 162.
+184::If two angles of a triangle are 60° and 80°, what is the third angle?::30°::40°::50°::60°::B::Sum of angles = 180°. Third angle = 180 - 60 - 80 = 40°.
+185::'INIMICAL' means?::Friendly::Hostile::Neutral::Supportive::B::Inimical means tending to obstruct or harm; unfriendly; hostile.
+186::Maria scored 85, 90, 75, and 90 on four tests. What is her average score?::82::85::87::90::B::Sum = 85+90+75+90 = 340. Average = 340 ÷ 4 = 85.
+187::What is the perimeter of a rectangle with length 9 and width 5?::14::28::45::40::B::Perimeter = 2(l + w) = 2(9 + 5) = 2 × 14 = 28.
+188::Which sentence correctly uses a semicolon?::She was tired; but she continued working.::She was tired; she continued working.::She was tired; and continued working.::She was tired; to continue working.::B::Semicolons join two independent clauses. 'She was tired; she continued working' joins two complete sentences correctly.
+189::'MERCURIAL' means?::Consistent and stable::Slow to change::Subject to sudden mood changes::Deliberate::B::Wait — mercurial means subject to sudden changes of mood. Correct answer is C::C::Mercurial means subject to sudden or unpredictable changes of mood or mind.
+190::If the angles of a quadrilateral are in ratio 1:2:3:4, what is the largest angle?::90°::120°::144°::160°::C::Sum = 360°. Parts = 10. Largest = (4/10) × 360 = 144°.
+191::A passage says productivity increased after remote work was introduced. The strongest alternative explanation would be?::Workers had better computers.::A simultaneous economic boom increased worker motivation independently.::Managers approved of the change.::Commuting time was saved.::B::An economic boom affecting motivation independently of remote work would be a confounding alternative explanation for the productivity increase.
+192::Simplify: (a³b²)/(ab)::a²b::ab²::a²b²::a³b::A::(a³/a) × (b²/b) = a² × b = a²b.
+193::What is the value of i² where i is the imaginary unit?::-1::1::0::i::A::By definition, i = √(-1), so i² = -1.
+194::'RECALCITRANT' means?::Obedient::Stubbornly resistant to authority::Enthusiastic::Flexible::B::Recalcitrant means having an obstinately uncooperative attitude.
+195::A passage notes that "Investment in education correlates with economic growth." Which question most challenges this?::Do educated workers earn more?::Does economic growth cause more investment in education?::Are schools well-managed?::Is education affordable?::B::This question raises the issue of reverse causality — economic growth might lead to more education investment, not the other way around.
+196::What is 0.008 expressed as a fraction in lowest terms?::8/100::4/500::1/125::2/250::C::0.008 = 8/1000 = 1/125.
+197::Which word best fills the blank: "Her argument was __, supported by extensive data and rigorous analysis."::flimsy::unfounded::compelling::vague::C::Given the supporting description (data and rigorous analysis), 'compelling' (persuasive/strong) is the most logically consistent word.
+198::A factory produces 450 units in 9 hours. How many units are produced per minute?::0.80::0.83::0.75::0.90::B::450 units / (9 × 60 minutes) = 450/540 = 0.833 ≈ 0.83 units per minute.
+199::If P implies Q, and Q implies R, then P implies?::Not R::Q only::R::Both Q and R::C::By hypothetical syllogism: P→Q and Q→R means P→R. P directly implies R.
+200::A balanced scorecard in business strategy evaluates performance across which four perspectives?::Finance, marketing, HR, operations::Financial, customer, internal processes, learning & growth::Revenue, cost, profit, cash flow::Strategy, execution, feedback, adjustment::B::The Balanced Scorecard framework by Kaplan and Norton measures performance across Financial, Customer, Internal Business Processes, and Learning & Growth perspectives.
+201::If x + 1/x = 5, what is x^2 + 1/x^2?::21::23::25::27::B::Using (x+1/x)^2 = x^2+2+1/x^2, so 25=expr+2 and expr=23

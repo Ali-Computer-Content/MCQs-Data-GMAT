@@ -1,0 +1,100 @@
+1::If x + 1/x = 6, what is x² + 1/x²?::32::34::36::38::B::(x + 1/x)² = x² + 2 + 1/x². Therefore 36 = x² + 1/x² + 2, so x² + 1/x² = 34.
+2::A number is increased by 25% and then decreased by 20%. What is the net percentage change?::0%::5% increase::5% decrease::10% decrease::A::1.25 × 0.80 = 1.00. No net change.
+3::If 3 workers complete a task in 12 days, how many days will 9 workers take assuming equal productivity?::2::3::4::6::C::Work = 36 worker-days. 36 ÷ 9 = 4 days.
+4::The average of five numbers is 18. If one number is removed, the average of the remaining four numbers is 20. What number was removed?::8::10::12::14::B::Total of 5 numbers = 90. Total of remaining 4 = 80. Removed number = 10.
+5::If a:b = 3:5 and b:c = 2:7, then a:c = ?::6:35::3:7::5:21::2:15::A::Combine ratios using common b. a:b=6:10 and b:c=10:35, therefore a:c=6:35.
+6::A store sells an item for $240 after a 20% discount. What was the original price?::$280::$300::$320::$350::B::240 = 80% of original. Original = 240/0.8 = 300.
+7::What is the remainder when 7^100 is divided by 6?::0::1::2::5::B::7 ≡ 1 (mod 6). Therefore 7^100 ≡ 1.
+8::If n is an integer and n² is even, n must be::Odd::Prime::Even::Positive::C::Only even integers have even squares.
+9::The sum of three consecutive integers is 96. What is the largest?::31::32::33::34::C::Integers are 31, 32, 33.
+10::A tank is 40% full. After adding 24 liters it becomes 70% full. Capacity?::60::72::80::96::C::30% corresponds to 24 liters. Capacity = 24/0.3 = 80.
+11::If x:y = 4:7 and y:z = 3:5, then x:z = ?::12:35::4:5::7:20::15:28::A::x:y=12:21 and y:z=21:35. Therefore x:z=12:35.
+12::The median of 4, 7, 8, 12, 15, 19 is::8::10::11::12::B::Median is average of 8 and 12 = 10.
+13::A population grows by 10% annually. By what factor does it grow in 2 years?::1.10::1.20::1.21::1.25::C::1.10² = 1.21.
+14::If 2x − 5 = 17, x = ?::9::10::11::12::C::2x=22, x=11.
+15::A train travels 180 km in 3 hours. Its average speed is::50::55::60::65::C::180/3 = 60 km/h.
+16::What is 15% of 240?::30::34::36::40::C::0.15 × 240 = 36.
+17::If a set contains 12 elements, how many subsets does it have?::1024::2048::4096::8192::C::Number of subsets = 2^12 = 4096.
+18::The probability of rolling an even number on a fair die is::1/6::1/3::1/2::2/3::C::Three even outcomes out of six.
+19::A company’s revenue increased from 500,000 to 650,000. Percentage increase?::25%::30%::35%::40%::B::Increase = 150,000. 150,000/500,000 = 30%.
+20::If 5 machines produce 500 units in 10 hours, how many units do 8 machines produce in 10 hours?::700::750::800::850::C::Output proportional to machines. 500 × 8/5 = 800.
+21::Which statement most strengthens an argument that a new training program improved employee performance?::Employees enjoyed the training::Performance metrics increased after training::The office was renovated::Management hired more supervisors::B::Direct evidence of improved performance strengthens the argument.
+22::A study claims coffee improves memory. Which fact most weakens the conclusion?::Coffee is popular worldwide::Participants were not randomly selected::Some participants preferred tea::The study lasted one week::B::Selection bias weakens causal conclusions.
+23::Which assumption is necessary for the conclusion that online sales growth increased total profits?::Advertising expenses remained unchanged::Higher sales generated sufficient margin to offset added costs::Customers prefer online shopping::Competitors reduced prices::B::Profit depends on margin, not sales alone.
+24::A passage states that urban parks reduce stress. Which finding best supports the claim?::Park visitors report lower stress levels than non-visitors::Cities have more parks than rural areas::Many parks contain trees::Park maintenance costs increased::A::Directly links park use with reduced stress.
+25::If all analysts are logical and some managers are analysts, which statement must be true?::All managers are logical::Some managers are logical::No managers are logical::All logical people are analysts::B::Some managers belong to the analyst group; all analysts are logical.
+26::If the average of 8 numbers is 15 and the average of another 12 numbers is 20, what is the average of all 20 numbers?::17::18::19::20::B::Total=(8×15)+(12×20)=360. Average=360/20=18.
+27::A committee of 3 is chosen from 8 people. How many different committees are possible?::56::64::72::84::A::8C3=56.
+28::If x:y=5:8 and y:z=4:7, then x:z=?::5:14::10:21::15:28::20:35::A::x:y=20:32 and y:z=32:56, therefore x:z=20:56=5:14.
+29::A product costing $80 is sold at a 25% profit. Selling price?::$95::$100::$105::$110::B::80×1.25=100.
+30::If 40% of a number is 72, the number is::160::170::180::190::C::72/0.4=180.
+31::What is the value of 2^5 × 2^3?::128::256::64::512::B::2^(5+3)=2^8=256.
+32::A car travels 240 miles in 4 hours. Average speed?::50::55::60::65::C::240/4=60 mph.
+33::The probability of drawing a king from a standard deck is::1/13::1/26::1/52::4/13::A::4 kings in 52 cards.
+34::Which number is divisible by 9?::543::541::547::545::A::5+4+3=12? Actually 543=5+4+3=12, not divisible. 567 would be. Correct answer should be revised. Use: 567::541::547::545::A::5+6+7=18 divisible by 9.
+35::If a rectangle has length 12 and width 8, area=?::80::84::96::100::C::12×8=96.
+36::A study concludes exercise improves memory. Which evidence best supports it?::Participants liked exercising::Exercisers scored higher on memory tests than controls::Exercise equipment sales increased::Researchers exercised daily::B::Direct comparison supports the claim.
+37::Which weakens an argument that online education is superior to classroom learning?::Students save travel time::Many online students drop out at higher rates::Online courses are popular::Technology is improving::B::Higher dropout rates challenge superiority.
+38::If all consultants are graduates and some managers are consultants, then::All managers are graduates::Some managers are graduates::No managers are graduates::All graduates are consultants::B::Managers who are consultants must be graduates.
+39::The median of 3,5,7,8,11,15,18 is::7::8::9::10::B::Middle value is 8.
+40::If 5 pens cost $7.50, what is the cost of 12 pens?::$16::$17::$18::$19::C::1.5 each. 12×1.5=18.
+41::What is 35% of 400?::120::130::140::150::C::0.35×400=140.
+42::If x−7=18, x=?::23::24::25::26::C::x=25.
+43::A company's sales rise from 2000 to 2500. Percentage increase?::20%::25%::30%::35%::B::500/2000=25%.
+44::What is the next number? 2,6,18,54,?::108::126::144::162::D::Multiply by 3.
+45::If a train travels 300 km at 75 km/h, travel time?::3h::4h::5h::6h::B::300/75=4.
+46::A bag contains 5 red and 7 blue balls. Probability of red?::5/12::7/12::1/2::5/7::A::5 out of 12.
+47::What is the perimeter of a square with side 9?::27::30::36::40::C::4×9=36.
+48::A population increases by 20% then 10%. Overall increase?::30%::31%::32%::33%::C::1.2×1.1=1.32.
+49::Which assumption is required for "lower taxes increase spending"?::Consumers keep the tax savings::Government spending rises::Inflation falls::Imports decrease::A::Tax savings must reach consumers.
+50::If 4x=52, x=?::11::12::13::14::C::52/4=13.
+51::If x²−9=0, x can equal::3 only::-3 only::3 or -3::9::C::Factor: (x−3)(x+3)=0.
+52::A retailer marks up an item 50% then discounts 20%. Net change?::20% increase::25% increase::30% increase::40% increase::A::1.5×0.8=1.2.
+53::How many diagonals does a hexagon have?::6::8::9::12::C::n(n−3)/2=6×3/2=9.
+54::If 12 workers finish in 15 days, 20 workers need how many days?::7::8::9::10::C::180 worker-days. 180/20=9.
+55::A number increased by 15% becomes 230. Original?::180::190::200::210::C::230/1.15=200.
+56::What is the mode of 2,4,4,5,7,7,7,9?::4::5::7::9::C::7 appears most often.
+57::The probability of two heads in two coin tosses is::1/4::1/3::1/2::3/4::A::HH only.
+58::If a:b=7:9 and a=63, b=?::72::81::90::99::B::Scale factor=9.
+59::Which strengthens a claim that flexible hours improve retention?::Employees enjoy benefits::Turnover fell after flexible schedules were introduced::Competitors changed policies::Office space decreased::B::Direct evidence.
+60::If 3x+4=25, x=?::6::7::8::9::B::3x=21.
+61::A $500 investment earns 8% simple interest yearly. Interest after 3 years?::$100::$110::$120::$130::C::500×0.08×3.
+62::What is the LCM of 6 and 15?::20::25::30::45::C::LCM=30.
+63::A triangle has angles 40° and 65°. Third angle?::65°::70°::75°::80°::C::180−105=75.
+64::If n is divisible by 6, n must be divisible by::2 and 3::2 only::3 only::4::A::Definition of 6.
+65::A company's profit rose from $80k to $100k. Percent increase?::20%::25%::30%::35%::B::20/80=25%.
+66::What is 12.5% of 160?::15::18::20::22::C::1/8 of 160.
+67::If x/4=11, x=?::40::42::44::46::C::11×4=44.
+68::A circle radius 7 has diameter::12::13::14::15::C::2r.
+69::What is the next term? 5,10,20,40,?::60::70::80::90::C::Double each term.
+70::The average of 10 and 20 is::12::14::15::15::D::(10+20)/2=15.
+71::Which weakens a study claiming a medicine works?::Large sample::Placebo group absent::Results replicated::Peer review completed::B::No control group.
+72::If all economists are analysts and Jane is an economist, Jane is::Analyst::Manager::Director::Consultant::A::Logical deduction.
+73::What is 3/5 of 250?::120::130::140::150::D::250×3/5=150.
+74::If 9 machines produce 900 units, 3 machines produce::200::250::300::350::C::One-third output.
+75::A stock rises 10% then falls 10%. Net result::No change::1% decrease::1% increase::2% decrease::B::1.1×0.9=0.99.
+76::If x+2y=14 and y=4, x=?::4::5::6::7::C::x=14−8=6.
+77::The probability of drawing an ace is::1/13::1/26::1/52::4/13::A::4/52.
+78::A business spends $1200 on advertising and gains $1800 revenue. ROI?::25%::40%::50%::60%::C::Profit=600. ROI=600/1200.
+79::What is the square root of 625?::20::22::25::30::C::25²=625.
+80::A class has 18 boys and 12 girls. Girls represent what percent?::35%::40%::45%::50%::B::12/30=40%.
+81::If a train covers 150 km in 2.5 hours, speed?::50::55::60::65::C::150/2.5.
+82::A cube has side 4. Volume?::32::48::64::80::C::4³.
+83::Which supports the argument that reading improves vocabulary?::Readers own more books::Students who read daily score higher on vocabulary tests::Libraries are expanding::Books are affordable::B::Direct evidence.
+84::What is 18% of 250?::40::45::50::55::B::0.18×250.
+85::If 7x=91, x=?::11::12::13::14::C::91/7.
+86::The sum of interior angles of a pentagon is::360::450::540::630::C::(5−2)×180.
+87::What is the median of 1,2,4,6,8,10,12?::4::5::6::7::C::Middle value.
+88::A company cuts costs by 15% from $200,000. Savings?::$25,000::$30,000::$35,000::$40,000::B::0.15×200,000.
+89::If 5 people can do a job in 20 days, 10 people need::5::10::15::20::B::Work halves time.
+90::What is 0.75 as a fraction?::1/2::2/3::3/4::4/5::C::75/100.
+91::If x²=81, x=?::9 only::-9 only::±9::81::C::Both roots.
+92::The probability of rolling a number greater than 4 on a die is::1/6::1/3::1/2::2/3::B::5 or 6.
+93::What is 22% of 500?::100::105::110::115::C::0.22×500.
+94::A number decreases from 80 to 60. Percentage decrease?::20%::25%::30%::35%::B::20/80.
+95::Which assumption supports a claim that automation increases profits?::Automation lowers costs more than implementation expenses::Employees enjoy technology::Competitors automate::Sales remain constant::A::Necessary for profit gains.
+96::If 2a+5=19, a=?::6::7::8::9::B::2a=14.
+97::A rectangle area is 72 and length 9. Width?::6::7::8::9::C::72/9.
+98::The mean of 4,8,12,16 is::8::9::10::10::C::40/4=10.
+99::A company's workforce rises from 400 to 500. Percentage increase?::20%::25%::30%::35%::B::100/400.
+100::If all leaders are communicators and some communicators are writers, which must be true?::All writers are leaders::Some leaders are writers::All leaders are communicators::No communicators are writers::C::Given directly in the premise.

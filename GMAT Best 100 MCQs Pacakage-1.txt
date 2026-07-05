@@ -1,0 +1,100 @@
+1::If x and y are positive integers and x/y = 3/5, which of the following could be the value of x+y?::14::18::22::24::D::Since x=3k and y=5k, x+y=8k. Only 24 is divisible by 8, giving k=3.
+2::A number is increased by 20% and then decreased by 20%. The final result is what percent less than the original number?::0%::2%::4%::8%::C::1.20×0.80=0.96, so the final value is 4% below the original.
+3::If 2x+3y=19 and x−y=2, what is y?::2::3::4::5::B::x=y+2. Substitute: 2(y+2)+3y=19 → 5y=15 → y=3.
+4::A company’s revenue increased from $4 million to $5 million. By what percent did it increase?::20%::25%::30%::40%::B::Increase is 1 million. 1/4=25%.
+5::If n is an integer and n² is divisible by 18, which must be true?::n divisible by 3::n divisible by 6::n divisible by 9::n even::A::18=2×3². Therefore n must contain a factor of 3.
+6::What is the remainder when 7^100 is divided by 6?::0::1::2::5::B::7≡1 (mod 6), so 7^100≡1.
+7::The average of five numbers is 18. If four of them are 15, 16, 18, and 20, what is the fifth?::19::20::21::21.5::C::Total=90. Sum of four numbers=69. Fifth=21.
+8::Which statement weakens the argument that remote workers are always more productive?::Remote workers save commuting time::Some remote workers report distractions at home::Companies spend less on office space::Internet speeds have improved::B::Home distractions provide counterevidence.
+9::If f(x)=2x²−3x+1, what is f(3)?::8::10::12::14::B::2(9)-9+1=10.
+10::A train travels 240 km in 3 hours. At the same speed, how far will it travel in 5 hours?::300 km::360 km::400 km::450 km::C::Speed=80 km/h. Distance=80×5=400.
+11::Which sentence is grammatically correct?::Neither the manager nor the employees was aware::Neither the manager nor the employees were aware::Neither the manager nor the employees has aware::Neither the manager nor the employees is aware::B::Verb agrees with the nearer plural subject employees.
+12::If p=2^5×3^2, how many positive factors does p have?::12::18::24::36::B::(5+1)(2+1)=18 factors.
+13::A jar contains red and blue marbles in ratio 3:7. If there are 28 blue marbles, how many red marbles are there?::10::12::14::16::B::7 parts=28, so one part=4. Red=3×4=12.
+14::Which assumption is necessary for a survey result to represent a population?::All respondents answered honestly::Sample is representative::Population is homogeneous::Questions are difficult::B::Representativeness is essential.
+15::If a and b are consecutive even integers and ab=168, what is a+b?::24::26::28::30::B::12×14=168. Sum=26.
+16::What is the median of 2, 7, 8, 10, 15, 18, 25?::8::10::12::15::B::Middle value is 10.
+17::A statement followed by evidence supporting it is an example of a::Paradox::Conclusion with premise::Assumption::Analogy::B::Evidence acts as premise.
+18::The probability of drawing an ace from a standard deck is::1/13::1/4::4/13::1/52::A::Four aces among 52 cards.
+19::Which sentence is most concise?::Due to the fact that sales increased, profits rose::Because sales increased, profits rose::On account of sales increasing, profits rose::Sales having increased caused profits to rise::B::Shortest and clearest.
+20::If x²−16=0 and x>0, x equals::2::4::8::16::B::Positive root is 4.
+21::If a machine produces 240 parts in 8 hours, how many parts in 15 hours?::420::450::480::500::B::30 parts/hour ×15=450.
+22::A retailer marks up an item 25% and then discounts it 20%. Net effect?::5% gain::No change::2% loss::10% gain::B::1.25×0.80=1.00.
+23::Which word best completes the sentence? "The CEO’s remarks were so _____ that investors remained uncertain."::Lucid::Ambiguous::Transparent::Explicit::B::Ambiguous means unclear.
+24::If 3x−5=19, x equals::6::7::8::9::C::3x=24, x=8.
+25::An argument is flawed because it confuses correlation with causation. Which is an example?::Rain causes umbrellas::Ice cream sales and drowning both increase in summer::Exercise improves health::Smoking causes cancer::B::Common factor season causes both.
+26::If n is odd, which expression must be even?::n²::n+2::3n::n+1::D::Odd+1 is always even.
+27::A committee of 3 is chosen from 6 people. How many possible committees?::15::18::20::24::C::6C3=20.
+28::Which sentence has correct parallelism?::She likes reading, to swim, and biking::She likes reading, swimming, and biking::She likes to read, swimming, and bikes::She likes reading, swim, and biking::B::All gerunds.
+29::If the average of x and y is 20 and x=26, y equals::10::12::14::16::C::(26+y)/2=20, y=14.
+30::A bag has 5 white and 7 black balls. Probability of white?::5/12::7/12::1/2::5/7::A::5 favorable outcomes out of 12.
+31::Which statement strengthens the claim that training improved productivity?::Workers disliked training::Output increased after training while staffing remained constant::Profits fell::Employees changed shifts::B::Eliminates alternative explanations.
+32::If 4^x=64, x equals::2::3::4::5::B::64=4³.
+33::The sum of three consecutive integers is 99. Largest integer?::32::33::34::35::C::32+33+34=99.
+34::What is 15% of 320?::42::48::50::52::B::0.15×320=48.
+35::Which sentence is correct?::Each of the students have a book::Each of the students has a book::Each of the students are having books::Each students has a book::B::Each is singular.
+36::A store sold 60% of 250 items. How many remain?::80::90::100::120::C::150 sold, 100 remain.
+37::If x+y=12 and xy=35, x²+y² equals::74::72::70::68::A::(x+y)²−2xy=144−70=74.
+38::Which word is closest in meaning to "mitigate"?::Increase::Reduce::Ignore::Create::B::Mitigate means lessen.
+39::If the ratio of men to women is 4:5 and there are 45 women, how many men?::32::36::40::45::B::One part=9, men=36.
+40::A statement accepted without proof in an argument is called::Evidence::Assumption::Inference::Conclusion::B::Assumption is taken for granted.
+41::If 5 workers finish a job in 12 days, how many days for 10 workers?::4::5::6::8::C::Double workers halve time.
+42::What is the units digit of 3^45?::1::3::7::9::C::Pattern 3,9,7,1 repeats every 4. 45 mod 4=1.
+43::Which sentence avoids redundancy?::The final outcome was unexpected::The outcome was unexpected::The end result outcome was unexpected::The outcome result was unexpected::B::Outcome already implies final.
+44::If x/4=7, x equals::21::24::28::32::C::x=28.
+45::A population doubles every 5 years. If it starts at 200, population after 15 years?::800::1200::1600::2400::C::Three doublings: 200→400→800→1600.
+46::If two fair dice are rolled, probability sum equals 7?::1/12::1/8::1/6::1/4::C::6 outcomes out of 36.
+47::Which argument flaw involves attacking the person instead of the issue?::Straw man::Ad hominem::Circular reasoning::False dilemma::B::Ad hominem attacks individuals.
+48::If x−3y=9 and y=2, x equals::11::13::15::17::C::x=15.
+49::The mean of six numbers is 14. Total sum equals::70::72::84::96::C::14×6=84.
+50::Which sentence is correct?::Data is convincing::Data are convincing::Datas are convincing::Data have convincing::B::Data is traditionally plural.
+51::If 2^a×2^b=2^9 and a=4, b equals::3::4::5::6::C::Exponents add: b=5.
+52::The area of a rectangle with length 12 and width 9 is::96::108::120::144::B::Area=12×9.
+53::Which statement most weakens a causal argument?::Alternative explanation exists::More evidence exists::Experts agree::Results repeated::A::Alternative cause undermines causation.
+54::If 7x=56, x equals::6::7::8::9::C::56/7=8.
+55::A class has 40 students. 30% are left-handed. Number left-handed?::10::12::14::16::B::0.3×40=12.
+56::If a+b=10 and a−b=2, a equals::4::5::6::7::C::2a=12, a=6.
+57::Which word means "brief and meaningful"?::Verbose::Succinct::Ambiguous::Obscure::B::Succinct means concise.
+58::Probability of getting heads twice in two tosses?::1/2::1/3::1/4::1/8::C::(1/2)²=1/4.
+59::Which sentence has correct pronoun usage?::Everyone should bring their ticket::Everyone should bring his or her ticket::Everyone should bring there ticket::Everyone should brings ticket::B::Singular antecedent.
+60::If 9x=81, x equals::8::9::10::11::B::81÷9=9.
+61::A number divisible by 6 must be divisible by::2 and 3::2 and 5::3 and 9::6 and 9::A::6=2×3.
+62::Which is an example of an inference?::Evidence::Conclusion drawn from facts::Opinion::Definition::B::Inference derives meaning.
+63::If a car travels 360 miles in 6 hours, speed equals::50 mph::55 mph::60 mph::65 mph::C::360/6=60.
+64::Median of 5,8,11,15,19?::8::10::11::15::C::Middle number is 11.
+65::Which sentence is grammatically correct?::The team are winning::The team is winning::The team were winning::The team have winning::B::Collective noun treated as singular.
+66::If x²=49 and x<0, x equals::-7::-5::5::7::A::Negative root.
+67::Probability of selecting a king from a deck?::1/13::1/4::1/26::1/52::A::Four kings out of 52 cards.
+68::Which assumption underlies a forecast?::Past trends continue::Nothing changes::Consumers are rational::Prices fixed::A::Forecasting assumes continuity.
+69::If 5! equals::60::100::120::150::C::5×4×3×2×1=120.
+70::Which sentence is most effective?::Due to the fact that costs rose, profits declined::Because costs rose, profits declined::Because of the reason that costs rose profits declined::Costs rose therefore profits declined due to that fact::B::Clear and concise.
+71::If x=2 and y=5, xy² equals::25::40::50::60::C::2×25=50.
+72::The mode of 3,5,5,7,8,8,8 equals::5::7::8::None::C::8 occurs most often.
+73::Which argument flaw presents only two choices?::False dilemma::Ad hominem::Analogy::Paradox::A::False dilemma limits options.
+74::If 6x−12=24, x equals::4::5::6::7::C::6x=36.
+75::25% of 640 equals::120::140::160::180::C::640/4=160.
+76::Which word means "to support"?::Undermine::Bolster::Neglect::Resist::B::Bolster means strengthen.
+77::If x+y=20 and y=8, x equals::10::12::14::16::B::20−8=12.
+78::Probability of an odd number on a die?::1/3::1/2::2/3::5/6::B::3 favorable outcomes out of 6.
+79::Which sentence is parallel?::He likes running, swimming, and to bike::He likes running, swimming, and biking::He likes run, swim, and biking::He likes to run, swimming, and biking::B::Same grammatical form.
+80::If 3x=2x+7, x equals::5::6::7::8::C::Subtract 2x.
+81::If n is divisible by 12, n must be divisible by::3 and 4::5 and 6::8 and 9::2 and 9::A::12=3×4.
+82::Which is a conclusion?::Supporting fact::Main claim::Example::Definition::B::Conclusion is central claim.
+83::A worker earns $18/hour for 35 hours. Weekly pay?::$540::$600::$630::$720::C::18×35=630.
+84::If x²+y²=25 and x=3, positive y equals::2::3::4::5::C::9+y²=25, y=4.
+85::Which sentence is correct?::One of the boys are absent::One of the boys is absent::One of the boys were absent::One of the boys have absent::B::One is singular.
+86::If 10% of x=40, x equals::200::300::400::500::C::x=400.
+87::Which word means "careful spending"?::Extravagance::Frugality::Negligence::Waste::B::Frugality means thrift.
+88::Probability of drawing a red card?::1/4::1/3::1/2::3/4::C::26 red cards out of 52.
+89::Which argument flaw assumes what it seeks to prove?::Circular reasoning::Ad hominem::Analogy::False cause::A::Premise restates conclusion.
+90::If x/5=9, x equals::40::45::50::55::B::9×5=45.
+91::The average of 8 and 20 equals::12::13::14::15::C::(8+20)/2=14.
+92::Which sentence avoids wordiness?::At this point in time we must act::We must act now::Currently at this point we should act::It is necessary that we act at this time::B::Most concise.
+93::If a:b=2:3 and b=18, a equals::10::12::14::16::B::One part=6, a=12.
+94::Which statement strengthens an analogy?::Relevant similarities::Differences only::Emotional appeal::Irrelevant example::A::Analogies depend on similarity.
+95::If 4x+8=40, x equals::6::7::8::9::C::4x=32.
+96::The range of 4,8,11,19 equals::11::13::15::19::C::19−4=15.
+97::Which word means "unclear"?::Vague::Precise::Definite::Specific::A::Vague means indistinct.
+98::Probability of selecting a face card?::3/13::1/4::1/3::1/2::A::12 face cards among 52 cards.
+99::If x+y=18 and x−y=6, y equals::4::5::6::7::C::2y=12.
+100::Which sentence is grammatically correct?::Neither of the answers are correct::Neither of the answers is correct::Neither of the answers have correct::Neither answers is correct::B::Neither is singular, requiring "is".
